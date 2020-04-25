@@ -1,4 +1,4 @@
-##This script is used to extract dual-stack domain name with IPv4 and IPv6 addresses from Rapid7 fdns database
+##This script is used to extract dual-stack domain name with IPv4 and IPv6 addresses from Rapid7 fdns database for Server
 
 * Firstly, run Script_generation_for_server.py, it will visit Rapid7's database and generate corresponding script to extract informaition  
 * Secondly, run script.sh, it will
